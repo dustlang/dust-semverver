@@ -1,4 +1,4 @@
-# rust-semverver
+# dust-semverver
 
 [![Build Status](https://github.com/rust-lang/rust-semverver/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/rust-semverver/actions?query=workflow%3ACI+branch%3Amaster)
 [![Current Version](https://meritbadge.herokuapp.com/semverver)](https://crates.io/crates/semverver)
